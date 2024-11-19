@@ -9,6 +9,6 @@
 \zeta(s) = \frac{s}{s-1}-s\int_{1}^{\infty}\frac{\{x\}}{x^{s+1}}\,dx
 ```
 
-```math
-### e^{i\pi} + 1 = 0
+## ```math
+e^{i\pi} + 1 = 0
 ```
